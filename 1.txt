@@ -1,0 +1,86 @@
+ 驱动器 D 中的卷是 新加卷
+ 卷的序列号是 7607-4D6A
+
+ D:\git\AndroidForDirk 的目录
+
+2015/03/17  01:20    <DIR>          .
+2015/03/17  01:20    <DIR>          ..
+2015/03/17  01:20                 0 1.txt
+               1 个文件              0 字节
+
+ D:\git\AndroidForDirk\.git 的目录
+
+2015/03/17  01:18               335 config
+2015/03/17  01:18                73 description
+2015/03/17  01:18                23 HEAD
+2015/03/17  01:18    <DIR>          hooks
+2015/03/17  01:18    <DIR>          info
+2015/03/17  01:18    <DIR>          objects
+2015/03/17  01:18    <DIR>          refs
+               3 个文件            431 字节
+
+ D:\git\AndroidForDirk\.git\hooks 的目录
+
+2015/03/17  01:18    <DIR>          .
+2015/03/17  01:18    <DIR>          ..
+2015/03/17  01:18               452 applypatch-msg.sample
+2015/03/17  01:18               896 commit-msg.sample
+2015/03/17  01:18               189 post-update.sample
+2015/03/17  01:18               398 pre-applypatch.sample
+2015/03/17  01:18             1,642 pre-commit.sample
+2015/03/17  01:18             1,352 pre-push.sample
+2015/03/17  01:18             4,951 pre-rebase.sample
+2015/03/17  01:18             1,239 prepare-commit-msg.sample
+2015/03/17  01:18             3,611 update.sample
+               9 个文件         14,730 字节
+
+ D:\git\AndroidForDirk\.git\info 的目录
+
+2015/03/17  01:18    <DIR>          .
+2015/03/17  01:18    <DIR>          ..
+2015/03/17  01:18               240 exclude
+               1 个文件            240 字节
+
+ D:\git\AndroidForDirk\.git\objects 的目录
+
+2015/03/17  01:18    <DIR>          .
+2015/03/17  01:18    <DIR>          ..
+2015/03/17  01:18    <DIR>          info
+2015/03/17  01:18    <DIR>          pack
+               0 个文件              0 字节
+
+ D:\git\AndroidForDirk\.git\objects\info 的目录
+
+2015/03/17  01:18    <DIR>          .
+2015/03/17  01:18    <DIR>          ..
+               0 个文件              0 字节
+
+ D:\git\AndroidForDirk\.git\objects\pack 的目录
+
+2015/03/17  01:18    <DIR>          .
+2015/03/17  01:18    <DIR>          ..
+               0 个文件              0 字节
+
+ D:\git\AndroidForDirk\.git\refs 的目录
+
+2015/03/17  01:18    <DIR>          .
+2015/03/17  01:18    <DIR>          ..
+2015/03/17  01:18    <DIR>          heads
+2015/03/17  01:18    <DIR>          tags
+               0 个文件              0 字节
+
+ D:\git\AndroidForDirk\.git\refs\heads 的目录
+
+2015/03/17  01:18    <DIR>          .
+2015/03/17  01:18    <DIR>          ..
+               0 个文件              0 字节
+
+ D:\git\AndroidForDirk\.git\refs\tags 的目录
+
+2015/03/17  01:18    <DIR>          .
+2015/03/17  01:18    <DIR>          ..
+               0 个文件              0 字节
+
+     所列文件总数:
+              14 个文件         15,401 字节
+              26 个目录 18,101,059,584 可用字节
